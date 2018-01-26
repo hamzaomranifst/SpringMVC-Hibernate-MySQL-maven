@@ -23,6 +23,7 @@
         <div class="wrapper">
             <!-- Navbar-->
             <div class="content-wrapper">
+                
                 <div class="page-title">
                     <div>
                         <h1>Employee List</h1>
