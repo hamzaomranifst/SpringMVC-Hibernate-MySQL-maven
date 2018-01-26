@@ -14,7 +14,6 @@
             <!-- CSS-->
             <link rel="stylesheet" type="text/css" href="resources/css/main.css">
             <!-- Font-icon css-->
-            <link rel="stylesheet" type="text/css" href="resources/font-awesome/css/font-awesome.min.css">
             <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries-->
             <!--if lt IE 9
             script(src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')
@@ -95,15 +94,5 @@
         </div>
 
 
-        <script src="resources/js/jquery-2.1.4.min.js"></script>
-        <script src="resources/js/bootstrap.min.js"></script>
-        <script src="resources/js/plugins/pace.min.js"></script>
-        <script src="resources/js/main.js"></script>
-        <script src="resources/js/custom.js"></script>
-
-        <!-- Data table plugin--> 
-        <script type="text/javascript" src="resources/js/plugins/jquery.dataTables.min.js"></script>
-        <script type="text/javascript" src="resources/js/plugins/dataTables.bootstrap.min.js"></script>
-        <script type="text/javascript">$('#sampleTable').DataTable();</script>
     </body>
 </html>
