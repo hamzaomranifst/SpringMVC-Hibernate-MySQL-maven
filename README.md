@@ -16,5 +16,7 @@
 
 ## Run
 ```mvn test```
+
 ```mvn clean package```
+
 ```mvn jetty:run```
